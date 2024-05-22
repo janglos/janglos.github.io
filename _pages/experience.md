@@ -9,12 +9,12 @@ classes: wide
 ### Product Owner | NXP Semiconductors
 2023 - now
 
-Product owner of automotive grade time synchronization stack (gPTP - generalized Precision Time Protocol). Responsible for product representation, roadmap planning, and the backlog prioritization. Successfully scaled the execution to support multiple targets - started from 3 developers and 1 tester, scaled to 9 developers and 4 testers.
+Product owner of automotive grade time synchronization stack (gPTP - generalized Precision Time Protocol). Responsible for product representation, roadmap planning, and backlog prioritization. Successfully scaled the execution to support multiple targets - started from 3 developers and 1 tester, scaled to 9 developers and 4 testers.
 
 ### Team Leader | Garrett – Advancing Motion
 2022 – 2023
 
-Leading a team of Data Analysts and Data Scientists. Responsible for providing data-oriented services in automotive cybersecurity (Intrusion Detection System) and prognostics.
+I was leading a team of Data Analysts and Data Scientists. Responsible for providing data-oriented services in automotive cybersecurity (Intrusion Detection System) and prognostics.
 
 ### Algorithm Development Engineer | Garrett – Advancing Motion
 2021 - 2022
@@ -30,4 +30,4 @@ Design, simulation, and implementation of control algorithms and other SW for au
 2007 – 2015
 
 Management and expansion of large-scale Building Management System (10 buildings increased to 30+) based on BACnet protocol (400 devices increased to 1000+).
-Responsible for BACnet devices testing, network topology and its optimization, data gathering and archiving, presentation to the users.
+Responsible for BACnet devices testing, network topology, and its optimization, data gathering, archiving, and presentation to the users.
