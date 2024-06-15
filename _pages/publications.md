@@ -13,7 +13,7 @@ J. Glos, L. Otava, and P. Václavek
 IEEE Transactions on Vehicular Technology, vol. 70, no. 2, pp. 1216-1229, Feb. 2021, doi: 10.1109/TVT.2021.3054170.
 
 [![TVT](/assets/pitch/IEEE_TVT_NMPC_T_AQ.png){:width="60%"}](/assets/pitch/IEEE_TVT_NMPC_T_AQ.png)
-&nbsp;&nbsp;&nbsp;[Download paper (pdf)](/assets/pdf/IEEE_TVT_NMPC_T_AQ.pdf)
+&nbsp;&nbsp;&nbsp;[Download paper (pdf)](/assets/pdf/2021_IEEE_TVT_NMPC_T_AQ.pdf)
 
 #### Modeling and Control of Electric and Thermal Flows in Fully Electric Vehicles
 J. Glos, advised by prof. Ing. Pavel Václavek, Ph.D.  
