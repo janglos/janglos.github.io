@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Jan Glos"
 title_separator          : "-"
-subtitle                 : # subtitle
+subtitle                 : "Product Owner, Leader, Manager"
 name                     : "Jan Glos"
-description              : "Jan Glos - Personal website"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Jan Glos - Product Owner, Leader, Manager. Background in dynamic modeling, controls, and communication. Academics, buildings, and automotive experience."
+url                      : "https://www.janglos.eu/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "janglos/janglos.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
