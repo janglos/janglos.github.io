@@ -9,3 +9,4 @@ classes: wide
 - Data science & analysis, data visualization
 - Control system analysis (core problem identification) and algorithm design 
 - Building automation consultancy (BACnet, HVAC control)
+- Energetic optimization (minimalization of consumption, energy flow routing, decision algorithms)
