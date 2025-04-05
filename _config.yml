@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Jan Glos"
 title_separator          : "-"
-subtitle                 : "Product Owner, Leader, Manager"
+subtitle                 : "Product Owner & Leader"
 name                     : "Jan Glos"
-description              : "Jan Glos - Product Owner, Leader, Manager. Background in dynamic modeling, controls, and communication. Academics, buildings, and automotive experience."
+description              : "Jan Glos - Product Owner & Leader. Background in modeling, controls, and communication. Experience in academics, buildings, and the automotive industry."
 url                      : "https://www.janglos.eu/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "janglos/janglos.github.io"
@@ -115,7 +115,7 @@ author:
       url: "mailto:jan.glos.cz@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.janglos.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
