@@ -1,15 +1,13 @@
 ---
 layout: single
-title: Home
+title: Product Owner & Leader
 permalink: /
 author_profile: true
 ---
 
-Jan Glos - Product Owner & Leader
-
 My professional career is centered around two main topics: control system design, and communication networks. 
 
-In each of my [roles](./experience.md), there were additional dimensions - time synchronization, electric vehicles, front-end design, embedded development, data analysis, dynamic simulations, energy optimization, and others.
+In each of my [roles](./experience.md), there were additional dimensions - time synchronization, electric vehicles, front-end design, embedded development, data analysis, dynamic modeling and simulations, energy optimization, and others.
 
 I've written many scientific and technical [papers](./publications.md) and gave a speech at several events (DefCamp, IEEE conferences, and others).
 
