@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Product Owner & Leader
+title: Product Manager & Leader
 permalink: /
 author_profile: true
 ---
