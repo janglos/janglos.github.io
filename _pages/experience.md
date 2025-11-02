@@ -6,8 +6,13 @@ author_profile: true
 classes: wide
 ---
 
+### Product Manager | NXP Semiconductors
+2025 - now
+
+Shaping vision, roadmap, and prioritizing features for a group of automotive networking stacks and middleware components. Always maximizing the customer value and delivering solution that truly matters.
+
 ### Product Owner | NXP Semiconductors
-2023 - now
+2023 - 2025
 
 Product owner of automotive grade time synchronization stack (gPTP - generalized Precision Time Protocol). Responsible for product representation, roadmap planning, and backlog prioritization. Successfully scaled the execution to support multiple targets - started from 3 developers and 1 tester, scaled to 9 developers and 4 testers.
 
