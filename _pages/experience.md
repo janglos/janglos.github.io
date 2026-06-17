@@ -14,10 +14,10 @@ Promoted to drive product strategy, budgeting, and roadmap execution for a compl
 <div class="impact-card">
   <div class="impact-title">Key Strategic Impacts</div>
   <div class="impact-grid">
-    <div class="impact-item">🎯 ART Strategic Leadership</div>
-    <div class="impact-item">⚡ Next-Gen DevOps (Monorepo & Bazel)</div>
-    <div class="impact-item">🤖 AI-Driven Product Operations</div>
-    <div class="impact-item">👥 PO Mentorship & Leadership</div>
+    <div class="impact-item"><span class="impact-icon">🎯</span><span class="impact-label">ART Strategic Leadership</span></div>
+    <div class="impact-item"><span class="impact-icon">⚡</span><span class="impact-label">Next-Gen DevOps (Monorepo & Bazel)</span></div>
+    <div class="impact-item"><span class="impact-icon">🤖</span><span class="impact-label">AI-Driven Product Operations</span></div>
+    <div class="impact-item"><span class="impact-icon">👥</span><span class="impact-label">PO Mentorship & Leadership</span></div>
   </div>
 </div>
 
@@ -36,10 +36,10 @@ Scaled the gPTP stack from a single-MCU solution into a high-scale, multi-platfo
 <div class="impact-card">
   <div class="impact-title">Key Achievements & Business Impact</div>
   <div class="impact-grid">
-    <div class="impact-item">⏱️ Lead Time Reduced to &lt;4 Weeks</div>
-    <div class="impact-item">🔄 Automated CI/CD (5d to &lt;2h)</div>
-    <div class="impact-item">🔬 1000x Time Sync Precision</div>
-    <div class="impact-item">🛡️ ASPICE Lvl 3 & IATF Compliant</div>
+    <div class="impact-item"><span class="impact-icon">⏱️</span><span class="impact-label">Lead Time Reduced to &lt;4 Weeks</span></div>
+    <div class="impact-item"><span class="impact-icon">🔄</span><span class="impact-label">Automated CI/CD (5d to &lt;2h)</span></div>
+    <div class="impact-item"><span class="impact-icon">🔬</span><span class="impact-label">100x Time Sync Precision</span></div>
+    <div class="impact-item"><span class="impact-icon">🛡️</span><span class="impact-label">ASPICE Lvl 3 & IATF Compliant</span></div>
   </div>
 </div>
 
@@ -127,6 +127,8 @@ Managed the technical architecture, optimization, and scaling of a large-scale e
 
 ## Education
 
-*   **Brno University of Technology** (2009 – 2020)
-    *   **PhD & MSc degrees in Cybernetics, Control, and Measurements**
-    *   *Faculty of Electrical Engineering and Communication*
+*   **Brno University of Technology** – *Faculty of Electrical Engineering and Communication*
+    *   🎓 **Ph.D. in Cybernetics, Automation and Measurement** *(2015 – 2020)*
+        Thesis: *Modeling and Control of Electric and Thermal Flows in Fully Electric Vehicles*
+    *   🎓 **Ing. (MSc) in Cybernetics, Automation and Measurement** *(2013 – 2015)*
+    *   🎓 **Bc. in Automation and Measurement Technology** *(2009 – 2013)*

@@ -1,16 +1,33 @@
 ---
 layout: single
-title: Product Manager & Leader
+title: "Jan Glos - Product Manager"
 permalink: /
 author_profile: true
+classes: home-page wide
 ---
 
-My professional career revolves around two main topics: control system design and communication networks. 
+<div class="hero-card">
+  <h1 class="hero-title">Bridging deep technical complexity with structured product roadmap delivery.</h1>
+  <p class="hero-description">Product Manager with a strong engineering foundation - 15+ years of experience spanning Building Automation, R&D, and industrial Product Management in the automotive sector.</p>
+  <div class="hero-actions">
+    <a href="/experience/" class="hero-btn hero-btn-primary">Explore Experience</a>
+    <a href="/services/" class="hero-btn hero-btn-secondary">Services & Collaboration</a>
+  </div>
+</div>
 
-In each of my [roles](./experience.md), an additional dimension was always there - time synchronization, electric vehicles, front-end design, embedded software development, data analysis, dynamic modeling and simulations, energy optimization, and others.
+<div class="about-philosophy">
+  <h3>Core Philosophy</h3>
+  <p>"Whenever I solve a customer’s problem, I first try to understand its nature and root cause. Then, I always seek a solution that truly solves the pain point, is simple, and robust. By understanding and empathizing with customer needs, I prioritize activities and deliver real commercial and technical value."</p>
+</div>
 
-Whenever I solve a customer’s problem, I first try to understand its nature and root cause. Then, I always seek a solution that truly solves the pain point and is simple and robust enough. I’m capable of influencing the team to get the stuff done. I’m not even afraid of getting my hands dirty. By understanding and empathizing with the customer needs, I prioritize the activities and deliver real value to the customers.
+<div class="expertise-grid">
+  <div class="expertise-col">
+    <h4>🛠️ Engineering & Cybernetics</h4>
+    <p>My career revolves around control system design and communication networks. I specialize in embedded software development, model-based design (MATLAB/Simulink), and data analysis in the automotive and industrial domains. Read my <a href="/publications/">scientific papers</a>.</p>
+  </div>
+  <div class="expertise-col">
+    <h4>🚀 Product Strategy & Leadership</h4>
+    <p>Driving roadmaps, scaling engineering teams, managing stakeholders, and co-heading SAFe transformations. I bridge technical complexity with business delivery. Read about my <a href="/experience/">professional roles</a>.</p>
+  </div>
+</div>
 
-I've written many scientific and technical [papers](./publications.md) and have given speeches (DefCamp, IEEE conferences, and others).
-
-I provide different [services](./services.md). If you are interested, don't hesitate to reach out to me.

@@ -99,19 +99,327 @@
   display: flex;
   gap: 12px;
   flex-wrap: wrap;
+  align-items: stretch;
 }
 .impact-item {
-  flex: 1 1 200px;
+  flex: 1 1 160px;
   background: white;
-  padding: 10px 14px;
+  padding: 12px 14px;
   border-radius: 6px;
   border: 1px solid #e9ecef;
   font-size: 0.85em;
   font-weight: 600;
   color: #495057;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 8px;
+  justify-content: center;
+  text-align: center;
+  gap: 6px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  line-height: 1.3;
 }
+
+/* Hide default page title on Home Page */
+.home-page .page__title {
+  display: none;
+}
+
+/* Skills Badges - Unified Palette */
+.badge {
+  display: inline-block;
+  padding: 0.4em 0.8em;
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 12px;
+  background-color: #f1f3f5;
+  color: #495057;
+  margin-right: 0.4em;
+  margin-bottom: 0.6em;
+  border: 1px solid #dee2e6;
+  transition: all 0.2s ease-in-out;
+}
+.badge:hover {
+  background-color: #e9ecef;
+  border-color: #ced4da;
+}
+/* Tech badges - Harmonized with theme primary #0092ca */
+.badge-tech {
+  background-color: #e6f7ff;
+  color: #0073a8;
+  border-color: #bae7ff;
+}
+.badge-tech:hover {
+  background-color: #bae7ff;
+  border-color: #91d5ff;
+}
+/* Lead badges - Warm complementary orange for contrast */
+.badge-lead {
+  background-color: #fff4e6;
+  color: #d9480f;
+  border-color: #ffd8a8;
+}
+.badge-lead:hover {
+  background-color: #ffe8cc;
+  border-color: #fcc419;
+}
+
+/* Impact cards in Experience page - aligned with theme primary #0092ca */
+.impact-card {
+  background: #f8f9fa;
+  border-left: 4px solid #0092ca;
+  padding: 12px 16px;
+  margin: 15px 0 25px 0;
+  border-radius: 0 6px 6px 0;
+}
+.impact-title {
+  font-size: 0.9em;
+  font-weight: 700;
+  color: #343a40;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+}
+.impact-grid {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+.impact-item {
+  flex: 1 1 160px;
+  background: white;
+  padding: 12px 14px;
+  border-radius: 6px;
+  border: 1px solid #e9ecef;
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #495057;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  line-height: 1.3;
+}
+
+/* 2. Home Page Components */
+
+/* High-contrast premium Dark Hero Card */
+.hero-card {
+  background: #ffffff;
+  border: 1px solid rgba(206, 212, 218, 0.8);
+  border-radius: 16px;
+  padding: 45px 35px;
+  margin-bottom: 40px;
+  box-shadow: 0 15px 35px rgba(0, 146, 202, 0.05), 0 5px 15px rgba(0, 0, 0, 0.02);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.hero-card::before {
+  content: "";
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: rgba(0, 146, 202, 0.02);
+  z-index: 1;
+}
+
+.hero-title {
+  font-size: 2.1em !important;
+  font-weight: 800 !important;
+  line-height: 1.25 !important;
+  color: #0d386c !important; /* Deep corporate blue */
+  margin-top: 0 !important;
+  margin-bottom: 20px !important;
+  letter-spacing: -0.5px;
+  position: relative;
+  z-index: 2;
+}
+
+.hero-description {
+  font-size: 1.1em !important;
+  color: #495057 !important; /* Standard readable text color */
+  line-height: 1.6 !important;
+  margin-bottom: 30px !important;
+  position: relative;
+  z-index: 2;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+  z-index: 2;
+}
+
+.hero-btn {
+  display: inline-block;
+  font-size: 0.95em !important;
+  font-weight: 700 !important;
+  padding: 10px 22px !important;
+  border-radius: 30px !important;
+  text-decoration: none !important;
+  transition: all 0.25s ease-in-out !important;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.03);
+}
+
+.hero-btn-primary {
+  background: #0092ca !important; /* Native theme primary blue */
+  color: white !important;
+  border: 2px solid #0092ca !important;
+}
+
+.hero-btn-primary:hover {
+  background: #007bb0 !important;
+  border-color: #007bb0 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 146, 202, 0.25);
+}
+
+.hero-btn-secondary {
+  background: #ffffff !important;
+  color: #0073a8 !important;
+  border: 2px solid #dee2e6 !important;
+}
+
+.hero-btn-secondary:hover {
+  background: #f8f9fa !important;
+  border-color: #0073a8 !important;
+  color: #0073a8 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.05);
+}
+
+/* Philosophy Callout - aligned with theme primary #0092ca */
+.about-philosophy {
+  border-left: 4px solid #0092ca;
+  padding: 15px 20px;
+  background: #f0f9ff;
+  border-radius: 0 8px 8px 0;
+  margin: 35px 0;
+}
+.about-philosophy h3 {
+  margin-top: 0;
+  color: #0073a8 !important;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.about-philosophy p {
+  margin-bottom: 0;
+  font-style: italic;
+  color: #393e46;
+}
+
+/* Expertise Grid */
+.expertise-grid {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  margin-top: 35px;
+}
+.expertise-col {
+  flex: 1 1 280px;
+}
+.expertise-col h4 {
+  margin-top: 0;
+  color: #222831;
+  font-size: 1.1em;
+  border-bottom: 1.5px solid #dee2e6;
+  padding-bottom: 8px;
+  font-weight: 700;
+}
+
+/* 3. Services Page Components */
+
+/* Custom Services Card Styling */
+.services-grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+.service-card {
+  flex: 1 1 300px;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 24px;
+  transition: all 0.25s ease-in-out;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.01);
+}
+.service-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.05);
+  border-color: #ced4da;
+}
+.service-icon {
+  font-size: 2.2em;
+  margin-bottom: 12px;
+}
+.service-title {
+  font-size: 1.3em;
+  font-weight: 700;
+  color: #222831;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.service-desc {
+  font-size: 0.95em;
+  color: #393e46;
+  line-height: 1.5;
+}
+
+/* Collaboration Banner - Harmonized with theme primary #0092ca */
+.collab-banner {
+  background: linear-gradient(135deg, #0073a8, #0092ca);
+  color: white;
+  border-radius: 8px;
+  padding: 32px;
+  text-align: center;
+  margin-top: 45px;
+  box-shadow: 0 4px 10px rgba(0, 146, 202, 0.15);
+}
+.collab-banner h3 {
+  color: white !important;
+  margin-top: 0;
+  font-size: 1.6em;
+  font-weight: 700;
+}
+.collab-banner p {
+  color: #e6f7ff;
+  margin-bottom: 20px;
+  font-size: 1.05em;
+  line-height: 1.5;
+}
+.collab-btn {
+  display: inline-block;
+  background: white;
+  color: #0073a8 !important;
+  font-weight: 700;
+  padding: 10px 24px;
+  border-radius: 30px;
+  text-decoration: none;
+  transition: all 0.2s;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.collab-btn:hover {
+  background: #f1f3f5;
+  transform: scale(1.03);
+}
+
+
 
