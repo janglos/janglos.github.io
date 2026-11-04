@@ -7,8 +7,8 @@ classes: home-page wide
 ---
 
 <div class="hero-card">
-  <h1 class="hero-title">Bridging deep technical complexity with structured product roadmap delivery.</h1>
-  <p class="hero-description">Product Manager with a strong engineering foundation - 15+ years of experience spanning Building Automation, R&D, and industrial Product Management in the automotive sector.</p>
+  <h1 class="hero-title">Technical product manager. Automotive software, data and AI.</h1>
+  <p class="hero-description">PhD in control engineering and 15+ years in automotive and industrial technology, from building automation and embedded control to vehicle cybersecurity and software platforms.</p>
   <div class="hero-actions">
     <a href="/experience/" class="hero-btn hero-btn-primary">Explore Experience</a>
     <a href="/services/" class="hero-btn hero-btn-secondary">Services & Collaboration</a>
@@ -27,7 +27,7 @@ classes: home-page wide
   </div>
   <div class="expertise-col">
     <h4>🚀 Product Strategy & Leadership</h4>
-    <p>Driving roadmaps, scaling engineering teams, managing stakeholders, and co-heading SAFe transformations. I bridge technical complexity with business delivery. Read about my <a href="/experience/">professional roles</a>.</p>
+    <p>Roadmaps and budgets for software platforms, work with engineering teams and stakeholders, SAFe, and AI tools for product work. Read about my <a href="/experience/">professional roles</a>.</p>
   </div>
 </div>
 

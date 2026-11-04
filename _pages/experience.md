@@ -9,91 +9,95 @@ classes: wide
 ### Product Manager | NXP Semiconductors
 **Sep 2025 – Present**
 
-Promoted to drive product strategy, budgeting, and roadmap execution for a complex Agile Release Train (ART) spanning 8 software components and 6 development teams. Co-headed the SAFe organizational transformation.
+Promoted from Product Owner. I own strategy, budget and roadmap for a release train of 9 software components, mostly automotive networking, built by 6 teams (47 people). The software ships free with NXP chips and is used across the market, from OEMs and Tier-1 suppliers to hobbyists. Co-led the SAFe transformation.
 
 <div class="impact-card">
   <div class="impact-title">Key Strategic Impacts</div>
   <div class="impact-grid">
-    <div class="impact-item"><span class="impact-icon">🎯</span><span class="impact-label">ART Strategic Leadership</span></div>
-    <div class="impact-item"><span class="impact-icon">⚡</span><span class="impact-label">Next-Gen DevOps (Monorepo & Bazel)</span></div>
-    <div class="impact-item"><span class="impact-icon">🤖</span><span class="impact-label">AI-Driven Product Operations</span></div>
-    <div class="impact-item"><span class="impact-icon">👥</span><span class="impact-label">PO Mentorship & Leadership</span></div>
+    <div class="impact-item"><span class="impact-icon">🎯</span><span class="impact-label">9 Components, 47 People</span></div>
+    <div class="impact-item"><span class="impact-icon">⚡</span><span class="impact-label">New Product Co-funded by 3 PLs</span></div>
+    <div class="impact-item"><span class="impact-icon">🤖</span><span class="impact-label">AI Planning Tools (0.5–1 FTE Saved)</span></div>
+    <div class="impact-item"><span class="impact-icon">👥</span><span class="impact-label">Best of 20+ Trains (PMO)</span></div>
   </div>
 </div>
 
-*   **Market-Driven Roadmap & Prioritization:** Successfully structured the ART and managed resource allocation across multiple Product Lines. Translate indirect feedback from integrators and OEM/Tier-1 use cases into a ruthlessly prioritized roadmap, balancing high-stakes technical debt with commercial feature delivery.
-*   **Next-Gen DevOps (Monorepo & Bazel):** Drive a strategic cross-functional workgroup migrating hundreds of isolated repositories into a unified Monorepo utilizing Bazel. Lead the PoC to map technical dependencies and optimize development velocity against DORA KPIs.
-*   **AI-Driven Product Operations:** Pioneer advanced internal workflows using autonomous AI agents for automated Jira management, rapid software prototyping, and custom productivity tools.
-*   **PO Mentorship & Leadership:** Coach and mentor Product Owners within the ART to align execution, establish a modern product culture, and elevate backlog maturity.
+*   **Funding and roadmap:** Agree with each funding product line what the train delivers for its budget, and prioritise features from OEM and Tier-1 use cases against technical debt.
+*   **New product:** Made the case for a new integrated Ethernet networking product, now co-funded by three product lines.
+*   **AI-assisted planning:** Built planning and reporting tools in Python, with an LLM layer for checks that fixed rules can't cover. They save an estimated 0.5–1 FTE of manual ticket work and are used by the release train engineer and all Product Owners. A second train is piloting them, and the PMO lead named the approach the best among 20+ trains at NXP.
+*   **Monorepo:** Set the vision for moving hundreds of repositories into one Bazel monorepo and drove the proof of concept before handing execution to colleagues.
+*   **People:** Mentor the 6 Product Owners and coordinate the train's architects and DevOps lead.
 
 ---
 
 ### Product Owner | NXP Semiconductors
-**Feb 2023 – Oct 2025**
+**Feb 2023 – Aug 2025**
 
-Scaled the gPTP stack from a single-MCU solution into a high-scale, multi-platform product, expanding the core automotive portfolio from 3 to 15+ supported microcontrollers.
+Grew the gPTP time-synchronisation stack, a building block of zonal vehicle architectures, from a single-MCU solution into a product line supporting 15+ microcontrollers (from 3).
 
 <div class="impact-card">
   <div class="impact-title">Key Achievements & Business Impact</div>
   <div class="impact-grid">
     <div class="impact-item"><span class="impact-icon">⏱️</span><span class="impact-label">Lead Time Reduced to &lt;4 Weeks</span></div>
     <div class="impact-item"><span class="impact-icon">🔄</span><span class="impact-label">Automated CI/CD (5d to &lt;2h)</span></div>
-    <div class="impact-item"><span class="impact-icon">🔬</span><span class="impact-label">100x Time Sync Precision</span></div>
+    <div class="impact-item"><span class="impact-icon">🔬</span><span class="impact-label">Sub-ns Time Sync Precision</span></div>
     <div class="impact-item"><span class="impact-icon">🛡️</span><span class="impact-label">ASPICE Lvl 3 & IATF Compliant</span></div>
   </div>
 </div>
 
-*   **Time-to-Market:** Reduced software delivery lead time from 3 months to <4 weeks post-silicon availability by designing parallelized development workstreams.
-*   **DevOps Strategy:** Spearheaded the transition to automated CI/CD, slashing full test campaigns from 5 days to under 2 hours and implementing automated PR gating for immediate quality feedback.
-*   **R&D Excellence:** Directed an internal research initiative that improved time synchronization precision by nearly three orders of magnitude, vastly exceeding industry standards.
-*   **Compliance & Quality:** Maintained strict ASPICE Level 3 compliance and successfully navigated two IATF audits.
-*   **Stakeholder Management:** Managed complex budget and scope negotiations across multiple NXP Product Lines, balancing internal NPI roadmaps with external customer demands.
+*   **Time to market:** Cut software delivery after silicon availability from 3 months to under 4 weeks by running workstreams in parallel.
+*   **CI/CD:** Brought full integration test campaigns down from 5 days to under 2 hours with automated pipelines and pull-request gating.
+*   **R&D:** Led an initiative that improved time-synchronisation precision by more than an order of magnitude, down to sub-nanosecond level.
+*   **Quality:** Kept the product at ASPICE Level 3 and through two IATF audits.
+*   **Budget and scope:** Negotiated budget and scope with several NXP product lines, balancing internal roadmaps with customer requests.
 
 ---
 
 ### Team Leader | Garrett - Advancing Motion
 **Apr 2022 – Jan 2023**
 
-Led and mentored a high-performing cross-functional team of Data Scientists, Data Analysts, and Software Developers delivering cutting-edge vehicle network security solutions.
+Led a team of 6 data scientists, analysts and developers in Garrett's global intrusion detection (IDS) team. The team owned the core detection algorithms, the tuning tools and early prototypes; the product went into production with several customers.
 
-*   **Product Ownership:** Owned the technical strategy and execution for the ruleset tuning toolchain used in CAN Intrusion Detection Systems (IDS).
-*   **Data-Driven Solutions:** Directed the design and delivery of advanced data analysis solutions tailored to specific global automotive customer requirements, bridging complex data insights with embedded cybersecurity components.
-*   **Stakeholder Alignment:** Acted as the core interface between data experts, embedded developers, testers, and customer teams to continuously enhance in-production cybersecurity features.
-*   **Talent Development:** Supervised and mentored team members across both technical capabilities (data infrastructure, predictive modeling) and crucial soft skills.
+*   **Data pipelines:** Tuning and verification ran as Apache Airflow pipelines over large CAN capture datasets in S3, and field engineers used the tools to tune detection for customers.
+*   **Tooling:** Designed the move of the tooling from MATLAB to Python with a database and delivered the first prototypes.
+*   **ML:** Supervised an ML prototype that traced engine fault codes back to the failing component using vehicle network data.
+*   **Stakeholders:** Main link between data experts, embedded developers, QA and automotive customers.
+*   **Talks:** Presented the IDS work at DefCamp 2021 and IAA 2022.
 
 ---
 
 ### Algorithm Development Engineer | Garrett - Advancing Motion
 **Jul 2021 – Apr 2022**
 
-Developed advanced automotive cybersecurity solutions as a core member of an international agile team, bridging embedded networks with data analytics.
+Automotive cybersecurity in an international team, between embedded networks and data analysis.
 
-*   **Algorithm Design:** Designed and implemented core detection algorithms for both CAN and Automotive Ethernet Intrusion Detection Systems (IDS).
-*   **Data Tooling & Automation:** Developed automated internal tools for network capture file analysis, drastically reducing the time required to process and visualize complex vehicle traffic data (CAN, J1939, Ethernet).
-*   **Toolchain Optimization:** Maintained and optimized the CAN IDS ruleset generation toolchain, improving its performance and laying the foundation for future ownership of the product's technical strategy.
+*   **Algorithms:** Designed and refined anomaly-detection algorithms for CAN and Automotive Ethernet intrusion detection; the embedded team ported them to C for production ECUs.
+*   **Tooling:** Wrote the original analysis tooling for network capture files (CAN, J1939, Ethernet).
+*   **Toolchain:** Maintained the CAN IDS ruleset generation toolchain and made it faster.
 
 ---
 
 ### Embedded Software Engineer & Researcher | CEITEC - Central European Institute of Technology
-**Nov 2013 – Jun 2021**
+**Nov 2013 – Jun 2021** · part-time alongside MSc and PhD studies
 
-Delivered complex software architectures, control algorithms, and simulation tools for automotive systems, transitioning from standalone tool development to leading technical workstreams within major European H2020 consortia.
+Embedded software, control algorithms and simulation tools for automotive systems in EU H2020 projects.
 
-*   **International Project Delivery:** Actively contributed to high-profile automotive research initiatives (OSEM-EV, 3Ccar, AutoDrive, 1000kmPLUS), developing embedded software and control strategies for electronic control units (ECUs). (See [Publications](/publications/))
-*   **Software & Library Architecture:** Engineered the [FMUtoolbox](/publications/#fmutoolbox-for-matlabsimulink) from scratch, creating custom MATLAB/Simulink libraries, graphical interfaces (GUI), and low-level S-functions to enable multi-domain Co-Simulation frameworks.
-*   **Infrastructure & Test Bench Integration:** Assembled, programmed, and operated a complex automotive HVAC&R test bench system, coordinating physical validation and data acquisition.
-*   **Embedded Protocols & Controls:** Developed and integrated low-level communication stacks (CAN, LIN, SPI) and deployed advanced control strategies (Model Predictive Control).
+*   **EU projects:** Developed embedded software and control algorithms for automotive ECUs in OSEM-EV, 3Ccar, AutoDrive and 1000kmPLUS. (See [Publications](/publications/))
+*   **Test bench team:** In OSEM-EV, led four engineers building the software for an EV thermal-management test bench. I designed the high-level control and split the component work among the team.
+*   **Vehicle model:** Created a thermal and electrical model of a complete electric vehicle and ran simulations with AVL.
+*   **FMUtoolbox:** Built the [FMUtoolbox](/publications/#fmutoolbox-for-matlabsimulink) from scratch: MATLAB/Simulink libraries, a GUI and low-level S-functions for multi-domain co-simulation.
+*   **Test bench:** Built an automotive HVAC&R test bench from the mechanics up, programmed and ran it, including data acquisition for validation.
+*   **Embedded control:** Wrote low-level communication stacks (CAN, LIN, SPI) and implemented model predictive control on automotive microcontrollers, validated processor-in-the-loop. Non-linear MPC of cabin climate saved 41 % energy in a cold-weather test case (IEEE TVT 2021).
 
 ---
 
 ### Building Management System (BMS) Architecture Specialist | Masaryk University
-**Aug 2007 – Sep 2015**
+**Aug 2007 – Sep 2015** · part-time
 
-Managed the technical architecture, optimization, and scaling of a large-scale enterprise Building Management System (BMS) based on the BACnet protocol.
+Technical architecture of the university's BACnet building management system.
 
-*   **System Scaling:** Successfully expanded the infrastructure from 10 to 30+ interconnected university buildings, managing the integration of over 1,000 distributed edge devices.
+*   **Scaling:** Grew the network from 10 to 30+ buildings and more than 1,000 BACnet devices.
 *   **Network Governance:** Designed the complete BACnet network topology (including BBMD, routing, and data archiving) and established standard testing procedures for hardware vendors.
-*   **Performance Optimization:** Diagnosed and eliminated critical communication bottlenecks, significantly improving system-wide data throughput and alarming reliability.
+*   **Performance:** Found and fixed communication bottlenecks, which improved data availability and alarm reliability.
 
 ---
 
