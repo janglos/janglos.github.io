@@ -9,7 +9,7 @@ classes: wide
 ### Product Manager | NXP Semiconductors
 **Sep 2025 – Present**
 
-Promoted from Product Owner. I own strategy, budget and roadmap for a release train of 9 software components, mostly automotive networking, built by 6 teams (47 people). The software ships free with NXP chips and is used across the market, from OEMs and Tier-1 suppliers to hobbyists. Co-led the SAFe transformation.
+Promoted from Product Owner. I own strategy, budget and roadmap for a release train of 9 software components, mostly automotive networking, built by 6 teams (47 people). The software ships with NXP chips and is used across the automotive market by OEMs and Tier-1 suppliers. Co-led the SAFe transformation.
 
 <div class="impact-card">
   <div class="impact-title">Key Strategic Impacts</div>
@@ -32,21 +32,21 @@ Promoted from Product Owner. I own strategy, budget and roadmap for a release tr
 ### Product Owner | NXP Semiconductors
 **Feb 2023 – Aug 2025**
 
-Grew the gPTP time-synchronisation stack, a building block of zonal vehicle architectures, from a single-MCU solution into a product line supporting 15+ microcontrollers (from 3).
+Grew the gPTP time-synchronisation stack, a building block of zonal vehicle architectures, into a multi-platform product line, growing support from 3 to 15+ microcontrollers.
 
 <div class="impact-card">
   <div class="impact-title">Key Achievements & Business Impact</div>
   <div class="impact-grid">
     <div class="impact-item"><span class="impact-icon">⏱️</span><span class="impact-label">Lead Time Reduced to &lt;4 Weeks</span></div>
     <div class="impact-item"><span class="impact-icon">🔄</span><span class="impact-label">Automated CI/CD (5d to &lt;2h)</span></div>
-    <div class="impact-item"><span class="impact-icon">🔬</span><span class="impact-label">Sub-ns Time Sync Precision</span></div>
+    <div class="impact-item"><span class="impact-icon">🧩</span><span class="impact-label">3 → 15+ Supported MCUs</span></div>
     <div class="impact-item"><span class="impact-icon">🛡️</span><span class="impact-label">ASPICE Lvl 3 & IATF Compliant</span></div>
   </div>
 </div>
 
 *   **Time to market:** Cut software delivery after silicon availability from 3 months to under 4 weeks by running workstreams in parallel.
 *   **CI/CD:** Brought full integration test campaigns down from 5 days to under 2 hours with automated pipelines and pull-request gating.
-*   **R&D:** Led an initiative that improved time-synchronisation precision by more than an order of magnitude, down to sub-nanosecond level.
+*   **R&D:** Led a project to improve the time-synchronisation precision of the stack.
 *   **Quality:** Kept the product at ASPICE Level 3 and through two IATF audits.
 *   **Budget and scope:** Negotiated budget and scope with several NXP product lines, balancing internal roadmaps with customer requests.
 
@@ -71,13 +71,13 @@ Led a team of 6 data scientists, analysts and developers in Garrett's global int
 Automotive cybersecurity in an international team, between embedded networks and data analysis.
 
 *   **Algorithms:** Designed and refined anomaly-detection algorithms for CAN and Automotive Ethernet intrusion detection; the embedded team ported them to C for production ECUs.
-*   **Tooling:** Wrote the original analysis tooling for network capture files (CAN, J1939, Ethernet).
+*   **Tooling:** Worked on the team's MATLAB analysis tooling for network capture files (CAN, J1939, Ethernet), which I later led as team leader.
 *   **Toolchain:** Maintained the CAN IDS ruleset generation toolchain and made it faster.
 
 ---
 
 ### Embedded Software Engineer & Researcher | CEITEC - Central European Institute of Technology
-**Nov 2013 – Jun 2021** · part-time alongside MSc and PhD studies
+**Nov 2013 – Jun 2021** · part-time during MSc studies, full-time from 2015 alongside PhD and teaching
 
 Embedded software, control algorithms and simulation tools for automotive systems in EU H2020 projects.
 
