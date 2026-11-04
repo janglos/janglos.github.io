@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/img/avatar.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -113,9 +113,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jan.glos.cz@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.janglos.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -189,6 +186,10 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - banner.js
+  - index.dnu
+  - minimal-mistakes-jekyll.gemspec
+  - staticman.yml
 keep_files:
   - .git
   - .svn
