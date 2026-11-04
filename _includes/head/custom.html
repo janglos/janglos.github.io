@@ -5,4 +5,9 @@
 <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/favicon-16x16.png' | relative_url }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
 
+{% unless site.twitter.username %}
+  {%- comment -%} The theme only emits twitter:card with a Twitter username; X otherwise falls back to a small card {%- endcomment -%}
+  <meta name="twitter:card" content="summary_large_image">
+{% endunless %}
+
 <!-- end custom head snippets -->
