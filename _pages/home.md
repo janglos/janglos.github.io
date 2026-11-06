@@ -27,7 +27,7 @@ classes: home-page wide
   </div>
   <div class="expertise-col">
     <h4>🚀 Product Strategy & Leadership</h4>
-    <p>Roadmaps and budgets for software platforms, work with engineering teams and stakeholders, SAFe, and AI tools for product work. Read about my <a href="/experience/">professional roles</a>.</p>
+    <p>Roadmaps and budgets for software platforms, work with engineering teams and stakeholders, SAFe, and AI tools for product work. Read about my <a href="/experience/">professional roles</a> and my own product, <a href="https://zahod.it">zahod.it</a>.</p>
   </div>
 </div>
 
