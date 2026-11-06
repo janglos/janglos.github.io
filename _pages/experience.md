@@ -104,7 +104,7 @@ Technical architecture of the university's BACnet building management system.
 ## Own business
 
 ### Founder | zahod.it
-**Sep 2026 – Present** · part-time
+**Sep 2026 – Present**
 
 Built and run [zahod.it](https://zahod.it) (site in Czech): a bot that reads photos and PDFs of Czech receipts and invoices with an AI vision model and writes them into the ABRA Flexi accounting system. Accountants use it daily for their client companies.
 
