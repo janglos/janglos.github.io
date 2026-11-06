@@ -137,6 +137,7 @@ Built and run [zahod.it](https://zahod.it) (site in Czech): a bot that reads pho
 <span class="badge badge-tech">Cybernetics</span>
 <span class="badge badge-tech">Embedded Systems (ECUs)</span>
 <span class="badge badge-tech">Communication Networks (BACnet, CAN, Ethernet)</span>
+<span class="badge badge-tech">AI Product Development</span>
 <span class="badge badge-tech">Data Analysis</span>
 <span class="badge badge-tech">Predictive Modeling</span>
 <span class="badge badge-tech">MATLAB/Simulink</span>
