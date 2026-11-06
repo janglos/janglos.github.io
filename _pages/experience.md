@@ -6,6 +6,18 @@ author_profile: true
 classes: wide
 ---
 
+### Founder | zahod.it
+**Jul 2026 – Present** · own side business, alongside NXP
+
+Built and run [zahod.it](https://zahod.it) (site in Czech): a bot that reads photos and PDFs of Czech receipts and invoices with an AI vision model and writes them into the ABRA Flexi accounting system. Accountants use it daily for their client companies.
+
+*   **Product:** Two ways in, a Telegram bot and shared Google Drive folders. Supplier matching against the company's address book, duplicate detection, and booking suggestions based on the supplier's history.
+*   **Never guess:** Unreadable or ambiguous documents are flagged and skipped rather than written; the accountant always has the last word.
+*   **Engineering:** Python, LLM vision extraction, the ABRA Flexi REST API, CI with test tiers against a local ABRA instance, writes blocked at the transport layer in dry runs, an external watchdog and encrypted off-site backups.
+*   **Measured from day one:** Every processed document is logged, so the automation rate is known rather than guessed.
+
+---
+
 ### Product Manager | NXP Semiconductors
 **Sep 2025 – Present**
 
