@@ -2,6 +2,8 @@
 layout: single
 title: Contact
 permalink: /contact/
+redirect_from:
+  - /contacts/
 author_profile: true
 classes: wide
 ---

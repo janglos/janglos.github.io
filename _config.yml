@@ -110,6 +110,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-redirect-from
 
 # HTML compression (theme's compress layout)
 compress_html:
